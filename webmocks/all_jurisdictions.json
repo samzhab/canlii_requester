@@ -1,0 +1,208 @@
+{
+  "legislationDatabases": [
+    {
+      "databaseId": "aba",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "ab",
+      "name": "Annual Statutes of Alberta"
+    },
+    {
+      "databaseId": "abr",
+      "type": "REGULATION",
+      "jurisdiction": "ab",
+      "name": "Consolidated Regulations of Alberta"
+    },
+    {
+      "databaseId": "abs",
+      "type": "STATUTE",
+      "jurisdiction": "ab",
+      "name": "Consolidated Statutes of Alberta"
+    },
+    {
+      "databaseId": "bcr",
+      "type": "REGULATION",
+      "jurisdiction": "bc",
+      "name": "Consolidated Regulations of British Columbia"
+    },
+    {
+      "databaseId": "bcs",
+      "type": "STATUTE",
+      "jurisdiction": "bc",
+      "name": "Consolidated Statutes of British Columbia"
+    },
+    {
+      "databaseId": "caa",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "ca",
+      "name": "Annual Statutes of Canada"
+    },
+    {
+      "databaseId": "car",
+      "type": "REGULATION",
+      "jurisdiction": "ca",
+      "name": "Consolidated Regulations of Canada"
+    },
+    {
+      "databaseId": "cas",
+      "type": "STATUTE",
+      "jurisdiction": "ca",
+      "name": "Consolidated Statutes of Canada"
+    },
+    {
+      "databaseId": "mba",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "mb",
+      "name": "Annual Statutes of Manitoba"
+    },
+    {
+      "databaseId": "mbr",
+      "type": "REGULATION",
+      "jurisdiction": "mb",
+      "name": "Consolidated Regulations of Manitoba"
+    },
+    {
+      "databaseId": "mbs",
+      "type": "STATUTE",
+      "jurisdiction": "mb",
+      "name": "Consolidated Statutes of Manitoba"
+    },
+    {
+      "databaseId": "nba",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "nb",
+      "name": "Annual Statutes of New-Brunswick"
+    },
+    {
+      "databaseId": "nbr",
+      "type": "REGULATION",
+      "jurisdiction": "nb",
+      "name": "Consolidated Regulations of New Brunswick"
+    },
+    {
+      "databaseId": "nbs",
+      "type": "STATUTE",
+      "jurisdiction": "nb",
+      "name": "Consolidated Statutes of New Brunswick"
+    },
+    {
+      "databaseId": "nlr",
+      "type": "REGULATION",
+      "jurisdiction": "nl",
+      "name": "Regulations of Newfoundland and Labrador"
+    },
+    {
+      "databaseId": "nls",
+      "type": "STATUTE",
+      "jurisdiction": "nl",
+      "name": "Consolidated Statutes of Newfoundland and Labrador"
+    },
+    {
+      "databaseId": "nsr",
+      "type": "REGULATION",
+      "jurisdiction": "ns",
+      "name": "Regulations of Nova Scotia"
+    },
+    {
+      "databaseId": "nss",
+      "type": "STATUTE",
+      "jurisdiction": "ns",
+      "name": "Consolidated Statutes of Nova Scotia"
+    },
+    {
+      "databaseId": "ntr",
+      "type": "REGULATION",
+      "jurisdiction": "nt",
+      "name": "Regulations of the Northwest Territories"
+    },
+    {
+      "databaseId": "nts",
+      "type": "STATUTE",
+      "jurisdiction": "nt",
+      "name": "Consolidated Statutes of the Northwest Territories"
+    },
+    {
+      "databaseId": "nur",
+      "type": "REGULATION",
+      "jurisdiction": "nu",
+      "name": "Regulations of Nunavut"
+    },
+    {
+      "databaseId": "nus",
+      "type": "STATUTE",
+      "jurisdiction": "nu",
+      "name": "Consolidated Statutes of Nunavut"
+    },
+    {
+      "databaseId": "onr",
+      "type": "REGULATION",
+      "jurisdiction": "on",
+      "name": "Consolidated Regulations of Ontario"
+    },
+    {
+      "databaseId": "ons",
+      "type": "STATUTE",
+      "jurisdiction": "on",
+      "name": "Consolidated Statutes of Ontario"
+    },
+    {
+      "databaseId": "per",
+      "type": "REGULATION",
+      "jurisdiction": "pe",
+      "name": "Regulations of Prince Edward Island"
+    },
+    {
+      "databaseId": "pes",
+      "type": "STATUTE",
+      "jurisdiction": "pe",
+      "name": "Consolidated Statutes of Prince Edward Island"
+    },
+    {
+      "databaseId": "qca",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "qc",
+      "name": "Annual Statutes of Quebec"
+    },
+    {
+      "databaseId": "qcr",
+      "type": "REGULATION",
+      "jurisdiction": "qc",
+      "name": "Regulations of Quebec"
+    },
+    {
+      "databaseId": "qcs",
+      "type": "STATUTE",
+      "jurisdiction": "qc",
+      "name": "Consolidated Statutes of Quebec"
+    },
+    {
+      "databaseId": "ska",
+      "type": "ANNUAL_STATUTE",
+      "jurisdiction": "sk",
+      "name": "Annual Statutes of Saskatchewan"
+    },
+    {
+      "databaseId": "skr",
+      "type": "REGULATION",
+      "jurisdiction": "sk",
+      "name": "Consolidated Regulations of Saskatchewan"
+    },
+    {
+      "databaseId": "sks",
+      "type": "STATUTE",
+      "jurisdiction": "sk",
+      "name": "Consolidated Statutes of Saskatchewan"
+    },
+    {
+      "databaseId": "ykr",
+      "type": "REGULATION",
+      "jurisdiction": "yk",
+      "name": "Regulations of Yukon"
+    },
+    {
+      "databaseId": "yks",
+      "type": "STATUTE",
+      "jurisdiction": "yk",
+      "name": "Statutes of Yukon"
+    }
+  ]
+}
